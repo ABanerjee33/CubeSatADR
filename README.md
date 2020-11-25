@@ -1,4 +1,4 @@
-# SeniorResearch
+# Senior Research
 Thanks for reading through this! This is my AET senior research project repository.
 
 # Project Rationale
