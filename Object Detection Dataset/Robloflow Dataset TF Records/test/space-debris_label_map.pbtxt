@@ -1,0 +1,15 @@
+item {
+    name: "Space-debris-cubesat",
+    id: 1,
+    display_name: "Space-debris-cubesat"
+}
+item {
+    name: "Space-debris-medium",
+    id: 2,
+    display_name: "Space-debris-medium"
+}
+item {
+    name: "Space-debris-small",
+    id: 3,
+    display_name: "Space-debris-small"
+}

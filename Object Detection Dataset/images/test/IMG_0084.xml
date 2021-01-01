@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_0084.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\test\IMG_0084.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Space-debris-medium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>223</ymin>
+			<xmax>2633</xmax>
+			<ymax>2426</ymax>
+		</bndbox>
+	</object>
+</annotation>

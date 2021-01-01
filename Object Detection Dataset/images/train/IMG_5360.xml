@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_5360.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\IMG_5360.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Space-debris-medium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1366</xmin>
+			<ymin>746</ymin>
+			<xmax>2614</xmax>
+			<ymax>1998</ymax>
+		</bndbox>
+	</object>
+</annotation>

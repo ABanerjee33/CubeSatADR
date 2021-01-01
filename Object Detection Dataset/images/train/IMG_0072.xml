@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_0072.jpg</filename>
+	<path>C:\tensorflow1\models\research\object_detection\images\train\IMG_0072.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Space-debris-cubesat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1078</xmin>
+			<ymin>481</ymin>
+			<xmax>2088</xmax>
+			<ymax>1615</ymax>
+		</bndbox>
+	</object>
+</annotation>
