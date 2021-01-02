@@ -1,3 +1,7 @@
+This is ON THE Raspberry Pi 
+
 1. Enter into command prompt and enter: cd tflite1
 2. Activate virtual enviornment: source tflite1-env/bin/activate
-3. Start the object detector: 
+3. Start the object detector: python3 TFLite_detection_webcam.py --modeldir=Space-debris_model
+
+For future reference: https://github.com/EdjeElectronics/TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi/blob/master/Raspberry_Pi_Guide.md
