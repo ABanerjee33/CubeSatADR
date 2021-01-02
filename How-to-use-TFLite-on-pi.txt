@@ -1,0 +1,3 @@
+1. Enter into command prompt and enter: cd tflite1
+2. Activate virtual enviornment: source tflite1-env/bin/activate
+3. Start the object detector: 
