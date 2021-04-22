@@ -1,5 +1,5 @@
 # Senior Research
-Thanks for reading through this! This is my AET senior research project repository.
+Hello! This is my AET senior research project repository.
 
 # Project Rationale
 Years of space activity have led to the exponential accumulation of more than 500,000 pieces of man-made space debris that orbit the earth at speeds of 17,500 mph.  This high-speed debris can inflict significant damage upon space infrastructure responsible for GPS, World-Wide communications, and the internet. The issue of space debris warrants the development of a CubeSat mission simulation, detailing methods of identifying and capturing simulated space debris in the Low Earth Orbit (LEO) space environment. 
