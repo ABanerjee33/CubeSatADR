@@ -22,10 +22,10 @@ Years of space activity and missile tests have led to the accumulation of more t
 # Research Paper
 Here is a link to my research paper: <https://docs.google.com/document/d/1pEW-YvyMPYnvBk7dPMFZDnh8s0JQTRVL-Tm5LXFrZAw/edit?usp=sharing>
 
-# RSEF (Regional Science & Engineering Fair) Documents
-## RSEF Presentation
+Science & Engineering Fair Documents
+## Presentation
 https://drive.google.com/file/d/1q3D0fl7o08JFdv-ublt1_3PxmefS0VA7/view?usp=sharing
-## RSEF Quad Chart
+## Quad Chart
 https://drive.google.com/file/d/17tT_Lp1UKl6S5kARIaOhyH_IVumxtoDL/view?usp=sharing
-## RSEF Video
+## Video
 https://drive.google.com/file/d/10r5_0sDWk8axDxte4FRlRki9nOwvmL-M/view?usp=sharing
